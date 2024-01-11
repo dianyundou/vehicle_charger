@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<azone>
+    <rzone name="R7FA6M3AH3CFC.rzone"/>
+    <partition>
+        <peripheral name="PORT0" group="PORT">
+            <slot name="P010" secure="false"/>
+        </peripheral>
+        <peripheral name="PORT1" group="PORT">
+            <slot name="P100" secure="false"/>
+            <slot name="P101" secure="false"/>
+            <slot name="P102" secure="false"/>
+            <slot name="P103" secure="false"/>
+            <slot name="P108" secure="false"/>
+            <slot name="P109" secure="false"/>
+            <slot name="P110" secure="false"/>
+        </peripheral>
+        <peripheral name="PORT2" group="PORT">
+            <slot name="P212" secure="false"/>
+            <slot name="P213" secure="false"/>
+        </peripheral>
+        <peripheral name="PORT3" group="PORT">
+            <slot name="P300" secure="false"/>
+            <slot name="P301" secure="false"/>
+            <slot name="P302" secure="false"/>
+        </peripheral>
+        <peripheral name="PORT6" group="PORT">
+            <slot name="P609" secure="false"/>
+            <slot name="P610" secure="false"/>
+        </peripheral>
+        <peripheral name="PORTB" group="PORT">
+            <slot name="PB01" secure="false"/>
+        </peripheral>
+        <peripheral name="CAN0" group="CAN" security=""/>
+        <peripheral name="CAN1" group="CAN" security=""/>
+        <peripheral name="SCI0" group="SCI" security=""/>
+        <peripheral name="SCI9" group="SCI" security=""/>
+        <peripheral name="SCI2" group="SCI" security=""/>
+        <peripheral name="SCI1" group="SCI" security=""/>
+        <peripheral name="GPT0" group="GPT" security=""/>
+        <peripheral name="ICU">
+            <slot name="IRQ0" secure="false"/>
+            <slot name="IRQ1" secure="false"/>
+            <slot name="IRQ2" secure="false"/>
+            <slot name="IRQ3" secure="false"/>
+            <slot name="IRQ4" secure="false"/>
+            <slot name="IRQ5" secure="false"/>
+            <slot name="IRQ6" secure="false"/>
+            <slot name="IRQ7" secure="false"/>
+            <slot name="IRQ8" secure="false"/>
+            <slot name="IRQ9" secure="false"/>
+            <slot name="IRQ10" secure="false"/>
+            <slot name="IRQ11" secure="false"/>
+            <slot name="IRQ12" secure="false"/>
+            <slot name="IRQ13" secure="false"/>
+            <slot name="IRQ14" secure="false"/>
+            <slot name="IRQ15" secure="false"/>
+            <slot name="IRQ16" secure="false"/>
+            <slot name="IRQ17" secure="false"/>
+            <slot name="IRQ18" secure="false"/>
+            <slot name="IRQ19" secure="false"/>
+            <slot name="IRQ20" secure="false"/>
+            <slot name="IRQ21" secure="false"/>
+            <slot name="IRQ22" secure="false"/>
+            <slot name="IRQ23" secure="false"/>
+            <slot name="IRQ24" secure="false"/>
+            <slot name="IRQ25" secure="false"/>
+            <slot name="IRQ26" secure="false"/>
+        </peripheral>
+    </partition>
+</azone>
